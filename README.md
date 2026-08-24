@@ -7,6 +7,7 @@ Welcome to the central repository for my conference materials. This repository a
 | Year | Conference / Event | Presentation Title | Materials |
 | :--- | :--- | :--- | :--- |
 | **2026** | BSides Las Vegas | *One Package, One Backdoor: Can AI stop the next supply chain attack before it reaches you?* | [Slides](./2026/bsides-lv_cfc_week/one_package_one_backdoor.pdf) |
+| **2026** | CFC Week | *Supply Chain Attacks: One Package, One Backdoor* | [Slides](./2026/bsides-lv_cfc_week/one_package_one_backdoor.pdf) |
 
 ## 🛠️ Repository Structure
 
