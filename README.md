@@ -1,2 +1,30 @@
-# talks
-A collection of slide decks, whitepapers, and proof-of-concept (PoC) code from my public cybersecurity presentations and workshops.
+# 🎤 Public Presentations & Talks
+
+Welcome to the central repository for my conference materials. This repository archives the slide decks, research notes, and proof-of-concept (PoC) code for my public speaking engagements, focusing on offensive security, infrastructure assessments, and custom tooling.
+
+## 📅 Directory of Talks
+
+| Year | Conference / Event | Presentation Title | Materials |
+| :--- | :--- | :--- | :--- |
+| **2026** | Black Alpaca Security Conference | *Mechanics of AI-Assisted Polymorphic Evasion Techniques* | [Slides](./2026/black-alpaca/slides.pdf) <br> [PoC Code](./2026/black-alpaca/poc/) |
+| **202X** | [Event Name] | *[Insert Presentation Title]* | [Slides](./path/) <br> [Code](./path/) |
+
+## 🛠️ Repository Structure
+
+Presentations are organized chronologically by year, then by event name. Inside each event folder, you will typically find:
+
+*   `slides.pdf`: The presentation deck.
+*   `README.md`: A brief abstract of the talk and instructions for running any related code.
+*   `/poc/` or `/tools/`: Custom scripts, Burp Suite extensions, or demonstration code used during the presentation.
+
+## 🚀 Usage & Proof of Concepts
+
+If a presentation includes a demonstration, the corresponding code is provided for educational and authorized testing purposes only. 
+
+To run the tools locally, please refer to the specific `README.md` inside each project folder for dependency requirements (e.g., Python environments, Burp Suite Pro versions).
+
+## 📫 Connect
+
+*   **LinkedIn:** https://www.linkedin.com/in/paulocsarrinc/
+*   **X / Twitter:** @ztrm99
+*   **Organization:** https://www.ztrm99.com
