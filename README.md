@@ -6,8 +6,7 @@ Welcome to the central repository for my conference materials. This repository a
 
 | Year | Conference / Event | Presentation Title | Materials |
 | :--- | :--- | :--- | :--- |
-| **2026** | Black Alpaca Security Conference | *Mechanics of AI-Assisted Polymorphic Evasion Techniques* | [Slides](./2026/black-alpaca/slides.pdf) <br> [PoC Code](./2026/black-alpaca/poc/) |
-| **202X** | [Event Name] | *[Insert Presentation Title]* | [Slides](./path/) <br> [Code](./path/) |
+| **2026** | BSides Las Vegas | *One Package, One Backdoor: Can AI stop the next supply chain attack before it reaches you?* | [Slides](./2026/bsides-lv_cfc_week/one_package_one_backdoor.pdf) |
 
 ## 🛠️ Repository Structure
 
